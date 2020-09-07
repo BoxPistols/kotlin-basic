@@ -28,6 +28,8 @@ $ :help
 
 ## Hello
 
+compile:<br>
 $ kotlinc hello.kt -include-runtime -d hello.jar
 
+実行:<br>
 $ java -jar hello.jar
